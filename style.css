@@ -1,1 +1,170 @@
-style.css
+/*top part start*/
+
+.logo {
+    width: 175px;
+    height: 50px;
+  }
+  .sign-in {
+    background-image: linear-gradient(#21b573, #21b573);
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 25px;
+    cursor: pointer;
+  }
+  .top-part {
+    background-image: linear-gradient(#f0fff0, #f0fff0);
+  }
+  header {
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-top: 20px;
+    padding-left: 50px;
+  }
+  .schedule-part {
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  span {
+    color: #21b573;
+  }
+  small {
+    color: #fd511a;
+  }
+  /*Second part start*/
+  .second-part {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;
+  }
+  .card-title {
+    text-align: center;
+  }
+  .card {
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    background-image: linear-gradient(#f0fff0, #f0fff0);
+  }
+  .second-part img {
+    height: 30%;
+    width: 30%;
+    padding-top: 35px;
+    padding-bottom: 20px;
+  }
+  .unique :hover {
+    background-image: linear-gradient(#fff, #fff);
+    box-shadow: 5px 5px 10px lightgrey;
+  }
+  /*Online courses part start*/
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+  .online-course {
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  .third-part {
+    text-align: left;
+  }
+  .third-bg {
+    background-image: linear-gradient(#fff, #fff);
+  }
+  .difficult img {
+    height: 50%;
+    width: 10%;
+  }
+  
+  .box-sizing {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgrey;
+    height: 70%;
+    width: 70%;
+  }
+  .gap {
+    padding-top: 20px;
+  }
+  .gap2 {
+    padding-right: 5px;
+  }
+  .modern {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .online-img {
+    padding: 15px 15px 15px 15px;
+  }
+  .perfect {
+    margin-right: 15px;
+  }
+  /*Testimonial part start*/
+  .testimonial {
+    height: 15%;
+    width: 15%;
+    margin-right: 50px;
+  }
+  .test-gap {
+    padding-right: 130px;
+    padding-left: 130px;
+    padding-bottom: 100px;
+  }
+  .small-portion {
+    color: black;
+  }
+  
+  /*footer part start*/
+  .end-part {
+    background-image: linear-gradient(#282531, #282531);
+    border: 1px solid;
+  }
+  .end-part p {
+    color: #ffffff;
+  }
+  .row li{
+    color: #fff;
+    list-style: none;
+    font-weight: lighter;
+    
+  }
+  .extra{
+    padding-left: 100px;
+   
+  }
+  
+  .copyright {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+  }
+  .copyright small{
+    color: #fff;
+  }
+  .matching {
+    display: inline-block;
+  }
+  
+  .space{
+  padding-top: 50px;
+  }
+  /*Bonus part start*/
+  .team-section img {
+    height: 50%;
+    width: 50%;
+  }
+  .bonus h5 {
+    color: red;
+    padding-bottom: 20px;
+    font-weight: 900;
+  }
+  
+  .social-link ul li {
+    display: inline-block;
+    padding-right: 50px;
+  }
